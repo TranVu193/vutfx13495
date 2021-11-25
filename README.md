@@ -1,2 +1,2 @@
-# vutfx13495
+# vutfx13495-project
 tuychon
